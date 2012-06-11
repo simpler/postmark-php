@@ -1,0 +1,7 @@
+{
+    "name": "miguel250/postmark-php",
+    "autoload": {
+        "psr-0": { "Postmark": "" }
+    },
+    "target-dir": "miguel250/postmark-php"
+}
